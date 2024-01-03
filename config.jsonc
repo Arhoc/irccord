@@ -1,0 +1,7 @@
+{
+	"mode": "", // UToken to log-in via token ; BToken to login via token on bot ; UAuth to log-in via mail-pass/2fa
+	"token": "",
+	"email": "",
+	"password": "",
+	"2fa_code": ""
+}
